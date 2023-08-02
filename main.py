@@ -45,7 +45,7 @@ def generate_index_html(plan):
       <head>
         <meta charset="UTF-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Make Payment</title>
+        <title>New AI</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="plan" content=""" + plan + """>
 
